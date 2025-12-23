@@ -1,0 +1,39 @@
+# ROY ORBISON – Oh, Pretty Woman
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Pretty woman, walking down the street
+Pretty woman, the kind I like to meet
+Pretty woman...
+I don't believe you, you're not the truth
+No one could look as good as you
+
+Pretty woman won't you, pardon me
+Pretty woman I couldn't,
+Help see
+Pretty woman
+That you look lovely as can be
+Are you lonely just like me?
+
+Pretty woman, stop a whiiile...
+Pretty woman, talk a whiiile...
+Pretty woman, give your smile to me
+Pretty woman, yeah yeah yeah
+Pretty woman, look my way
+Pretty woman, say you'll stay with me
+'Cause I need you, I'll treat you right
+Come with me baby,
+Be mine tonight
+
+Pretty woman, don't walk on by
+Pretty woman, don't make me cry
+Pretty woman, don't walk away, hey... okay
+If that's the way it must be, okay
+I guess I'll go on home, it's late
+There'll be tomorrow night, but wait
+What do I see
+Is she walking back to me
+Yeeaah, she's walking back to me
+Oooh, oooh, Pretty woman
+```

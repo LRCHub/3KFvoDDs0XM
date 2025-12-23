@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Oh, Pretty Woman",
+  "base_artist": "ROY ORBISON",
+  "createdAt": "2025-12-23T17:41:26.877766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman (Can't Make You Love Me)",
+      "artist": "Albert King",
+      "has_synced": false,
+      "path": "select/01_Oh,_Pretty_Woman_(Can't_Make_You_Love_Me)_Albert_King.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Albert King",
+      "has_synced": false,
+      "path": "select/02_Oh,_Pretty_Woman_Albert_King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Sharleen Spiteri",
+      "has_synced": false,
+      "path": "select/03_Oh,_Pretty_Woman_Sharleen_Spiteri.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Oh) Pretty Woman",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/04_(Oh)_Pretty_Woman_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/05_Oh,_Pretty_Woman_Roy_Orbison.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oh Pretty Woman",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/06_Oh_Pretty_Woman_Roy_Orbison.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman (ALT Version)",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/07_Oh,_Pretty_Woman_(ALT_Version)_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh Pretty Woman",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/08_Oh_Pretty_Woman_Gary_Moore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh Pretty Woman",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/09_Oh_Pretty_Woman_Gary_Moore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh Pretty Woman - Live",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/10_Oh_Pretty_Woman_-_Live_Gary_Moore.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/11_Oh,_Pretty_Woman_Roy_Orbison.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/12_Oh,_Pretty_Woman_Roy_Orbison.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/13_Oh,_Pretty_Woman_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Del Shannon",
+      "has_synced": false,
+      "path": "select/14_Oh,_Pretty_Woman_Del_Shannon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(Oh) Pretty Woman",
+      "artist": "Van Halen",
+      "has_synced": false,
+      "path": "select/15_(Oh)_Pretty_Woman_Van_Halen.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oh, Pretty Woman",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/16_Oh,_Pretty_Woman_Roy_Orbison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oh, Pretty Woman",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/pl_01_Oh,_Pretty_Woman_Roy_Orbison.txt"
+    }
+  ]
+}

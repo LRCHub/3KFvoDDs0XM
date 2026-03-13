@@ -1,4 +1,4 @@
-# ROY ORBISON – Oh, Pretty Woman
+# Roy Orbison – Oh, Pretty Woman
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
